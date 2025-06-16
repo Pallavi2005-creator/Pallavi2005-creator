@@ -61,4 +61,27 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pallavi2005-creator&show_icons=true&theme=tokyonight" alt="Pallavi's GitHub Stats" />
+</p>
+
+---
+
+### 📌 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi2005-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pallavi2005-creator&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
